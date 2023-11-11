@@ -6,7 +6,17 @@ This repository contains my personal configuration files for the [i3 window mana
 
 ![status_bar](https://github.com/Iona-Iobidze/i3wm_configurations/assets/73552612/d29966a0-22a1-4e6b-95e7-1e1c53c451e2)
 
-For the status bar, I use [Bumblebee-Status](https://github.com/tobi-wan-kenobi/bumblebee-status), a modular, theme-able status line generator for the i3 window manager. I have adjusted the modules to suit my needs and have also created a personalized theme. Both the adjusted modules and the theme are included in this repository.
+For the status bar, I use [Bumblebee-Status](https://github.com/tobi-wan-kenobi/bumblebee-status), a modular, theme-able status line generator for the i3 window manager. I have customized the modules and created a personalized theme. However, the modules and themes that are in this repository are the ones I use. To fully utilize the status bar, you need to install Bumblebee-Status from its [original source](https://github.com/tobi-wan-kenobi/bumblebee-status).
+
+You can install Bumblebee-Status using pip, or clone it from the git repository. Here are the installation instructions:
+
+**Using pip:**
+pip install --user bumblebee-status
+
+**Using git:**
+git clone git://github.com/tobi-wan-kenobi/bumblebee-status cd bumblebee-status makepkg -sicr
+
+After installing Bumblebee-Status, you can use the personalized theme provided in this repository by following the instructions provided in the Bumblebee-Status documentation.
 
 ## Configuration
 
