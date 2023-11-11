@@ -24,6 +24,9 @@ The configuration file is located in the `~/.config/i3/` directory. If you want 
 
 Please note that you may need to adjust some settings to match your personal preferences and your system's specifications.
 
+## Dependencies 
+dex, xss-lock, pactl, kitty, brave, leafpad, blueman-manager, thunar, scrot, xclip, pavucontrol, brightnessctl, nitrogen, setxkbmap, bumblebee-status
+
 ## Contributions
 
 Feel free to fork this repository, make changes, and submit a pull request if you think your changes could be beneficial to others.
