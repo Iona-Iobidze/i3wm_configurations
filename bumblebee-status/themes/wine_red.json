@@ -1,0 +1,84 @@
+{
+    "icons": ["paxy97", "awesome-fonts"],
+    "defaults": {
+        "fg": "#E7DECC",
+        "bg": "#4E0707",
+        "separator_fg": "#000000",
+        "warning": {
+            "fg": "#E7DECC",
+            "bg": "#4E0707"
+        },
+        "critical": {
+            "fg": "#E7DECC",
+            "bg": "#4E0707"
+        },
+        "default-separators": true,
+        "separator": " ",
+        "separator-block-width": 0
+    },
+    "spotify": {
+        "playing": {
+            "prefix": "play"
+        }
+    },
+    "cmus": {
+        "playing": {
+            "prefix": "play"
+        }
+    },
+    "battery": {
+        "charged": {
+            "fg": "#E7DECC",
+            "bg": "#4E0707"
+        },
+        "AC": {
+            "fg": "#E7DECC",
+            "bg": "#4E0707"
+        }
+    },
+    "bluetooth": {
+        "ON": {
+            "fg": "#E7DECC",
+            "bg": "#4E0707"
+        }
+    },
+    "git": {
+        "modified": {
+            "fg": "#E7DECC"
+        },
+        "deleted": {
+            "fg": "#E7DECC"
+        },
+        "new": {
+            "fg": "#E7DECC"
+        }
+    },
+    "pomodoro": {
+        "paused": {
+            "fg": "#E7DECC",
+            "bg": "#4E0707"
+        },
+        "work": {
+            "fg": "#E7DECC",
+            "bg": "#4E0707"
+        },
+        "break": {
+            "fg": "#E7DECC",
+            "bg": "#4E0707"
+        }
+    },
+    "keys": {
+        "Key.cmd": {
+            "fg": "#E7DECC"
+        },
+        "Key.shift": {
+            "fg": "#E7DECC"
+        },
+        "Key.ctrl": {
+            "fg": "#E7DECC"
+        },
+        "Key.alt": {
+            "fg": "#E7DECC"
+        }
+    }
+}
