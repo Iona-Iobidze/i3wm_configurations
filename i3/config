@@ -132,7 +132,7 @@ bar {
 # Shortcuts
 bindsym $mod+w exec brave 
 bindsym $mod+f exec /home/iona/Applications/shortcut_skripts/symbols.sh
-bindsym $mod+c exec gedit ./.config/i3/config
+bindsym $mod+c exec leafpad ./.config/i3/config
 bindsym $mod+b exec blueman-manager && killall blueman-tray
 bindsym $mod+k exec thunar Documents/K_EW_Cem3/
 bindsym $mod+h exec thunar
