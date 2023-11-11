@@ -16,7 +16,7 @@ pip install --user bumblebee-status
 **Using git:**
 git clone git://github.com/tobi-wan-kenobi/bumblebee-status cd bumblebee-status makepkg -sicr
 
-After installing Bumblebee-Status, you can use the personalized theme provided in this repository by following the instructions provided in the Bumblebee-Status documentation.
+After installing Bumblebee-Status, you can use the personalized theme provided in this repository.
 
 ## Configuration
 
